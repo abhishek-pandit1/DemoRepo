@@ -1,0 +1,6 @@
+
+this is the starting of the issue2
+>>>>>>> Issue2
+
+
+this is the idea file which is merged in the issue2 
